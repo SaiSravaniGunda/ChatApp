@@ -78,19 +78,5 @@ Follow the steps below to get the project running locally.
 
 Feel free to fork this project and submit pull requests. If you have any suggestions or improvements, feel free to open an issue or contribute directly.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-### Key Points for Markdown Formatting:
-
-- Use `#` for headers, where more `#` symbols represent lower-level headers (e.g., `##` for subheadings).
-- Use triple backticks (```) for code blocks (both inline and multi-line).
-- Create bullet points with `-` or `*`.
-- Links can be added using `[text](url)`.
-- Images can be embedded with `![alt text](image_url)`.
-
-Once you paste this into your `README.md` file, it should display correctly both locally and on GitHub. This includes nice formatting for code blocks and a clean structure for sections.
 
 Let me know if there's anything else you'd like to adjust!
