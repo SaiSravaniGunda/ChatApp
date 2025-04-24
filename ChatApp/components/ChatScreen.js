@@ -4,7 +4,8 @@ import React, { useState, useEffect } from 'react';
 import { View, TextInput, Button, FlatList, Text, StyleSheet } from 'react-native';
 import io from 'socket.io-client';
 
-const socket = io('http://192.168.1.102:3000');
+const socket = io('http://localhost:3000');
+
 
 const ChatScreen = ({ route }) => {
   const { username } = route.params;
